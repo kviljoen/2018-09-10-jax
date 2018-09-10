@@ -13,7 +13,7 @@ enddate: 2018-09-11
 instructor: ["Georgi Kolishovski", "Sue McClatchy", "Stanley Yang"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2018-09-10-jax
 eventbrite: 48138148498
 ---
 
